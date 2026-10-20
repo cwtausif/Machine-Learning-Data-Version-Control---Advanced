@@ -4,7 +4,7 @@ from datetime import datetime
 
 df = pd.DataFrame({
     'timestamp': [datetime.now()],
-    'value': [1]
+    'value': [2]
 })
 
 # create data folder and save csv
